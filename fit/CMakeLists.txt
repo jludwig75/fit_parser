@@ -1,0 +1,1 @@
+add_library(fit STATIC parser.cpp)
